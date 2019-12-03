@@ -23,7 +23,7 @@ function forecast(lattitude, longitude, callback) {
           response.body.currently.temperature +
           ' डिग्री  सल्सीयस तापमान है aur ' +
           response.body.currently.precipProbability +
-          ' % बारिश की सम्भावना hai'
+          ' % BArish की सम्भावना hai'
       );
     }
   });
